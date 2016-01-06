@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kelime Karti</string>
+    <string name="addWordTitle">Kelime Ekle</string>
+    <string name="addWordMessage">Eklemek istediğiniz kelimenin ingilizcesini yazınız.</string>
+</resources>
